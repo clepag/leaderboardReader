@@ -70,8 +70,10 @@ It is recommended to create a [virtual environment](https://docs.python.org/3/tu
 
 ### Prerequisites
 
-* Python https://www.python.org/downloads/
-* Tesseract https://github.com/tesseract-ocr/tesseract#installing-tesseract
+* [Python](https://www.python.org/downloads/)
+* [Tesseract](https://github.com/tesseract-ocr/tesseract#installing-tesseract)
+
+
 Make sure to add the python and tesseract folder paths to your environment variables when using Windows
 
 ### Installation
